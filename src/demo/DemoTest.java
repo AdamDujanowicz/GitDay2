@@ -11,5 +11,12 @@ public class DemoTest {
 			System.out.println(a+b);
 		
 	}
+	
+	//Implemented By not Adam
+	public static void subtract(int a, int b){
+	
+		System.out.println(a-b);
+		
+	}
 
 }
